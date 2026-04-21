@@ -1,4 +1,4 @@
-# ABAP MCP Server (zgeneric_mcp)
+# ABAP MCP Server (zgeneric_mcp) Just a PoC
 
 Ein minimaler [Model Context Protocol](https://modelcontextprotocol.io/) Server, implementiert in ABAP, der Claude Code direkten Zugriff auf SAP-interne Daten ermöglicht.
 
